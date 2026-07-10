@@ -1,10 +1,11 @@
 streamlit
-matplotlib
 pandas
 numpy
-langchain
+matplotlib
+plotly
+openpyxl
+groq
 faiss-cpu
+langchain
 sentence-transformers
 pypdf
-groq
-
