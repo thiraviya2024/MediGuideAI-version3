@@ -1,11 +1,10 @@
 streamlit
+matplotlib
+pandas
+numpy
 langchain
-langchain-community
-langchain-groq
 faiss-cpu
-pypdf
 sentence-transformers
-python-dotenv
+pypdf
 groq
-
 
