@@ -6,6 +6,6 @@ faiss-cpu
 pypdf
 sentence-transformers
 python-dotenv
-sqlite-
+groq
 
 
